@@ -7,4 +7,4 @@ https://www.rottentomatoes.com/
 and
 https://www.imdb.com/
 
-This dataset is open for use by the public.
+This dataset is open for use by anyone.
